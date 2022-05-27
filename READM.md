@@ -1,2 +1,2 @@
 hello
-dew BKK
+dew
